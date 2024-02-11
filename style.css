@@ -1,0 +1,77 @@
+button {
+    color: red;
+}
+.invisible {
+    visibility: hidden;
+}
+/*body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1,h2,h3,h4,h,h6 {
+    font-family: 'Montserrat-Bold', sans-serif;
+}
+p {
+    color: #8f8f8f;
+}
+.navbar {
+    padding 0 0 4.5rem;
+}
+.navbar-brand {
+    fontfamily: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light' , sans-serif;
+}
+.container-fluid {
+    padding: 7% 15%;
+}
+.coloured-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+.white-section {
+    background-color: #fff;
+}
+.big-heading {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3.5rem;
+    line-height:1.5;
+}
+
+.section-title {
+    font-size: 3rem;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+    color: red;
+}
+#title .container-fluid {
+    text-align: left;
+    padding-top: 3%;
+}
+.title-image {
+    width: 60%;
+    position: absolute
+    right : 30%;
+    transform: rotate(25deg);
+}
+
+#features {
+    position: relative;
+    z-index: 500;
+}
+
+*/
