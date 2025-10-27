@@ -29,18 +29,18 @@ GitHub Pages	Hosting and deployment
 '''
 FOOD-ORDERING-WEBSITE/
 │
-├── css/ # Stylesheets
-├── images/ # Images and icons
-├── index.html # Homepage
-├── cart.html # Cart page
-├── contactus.html # Contact page
-├── policy.html # Privacy Policy page
-├── terms_of_service.html# Terms & Conditions page
-├── style.css # Main stylesheet
-├── index.js # Homepage scripts
-├── cart.js # Cart logic
-└── README.md
-'''
+├── css/ 
+├── images/ 
+├── index.html
+├── cart.html 
+├── contactus.html
+├── policy.html 
+├── terms_of_service.html
+├── style.css
+├── index.js
+cart.js # Cart logic
+README.md
+
 ⚡ How to Run Locally 
 1️⃣ Clone this repo: git clone https://github.com/Amisha727/FOOD-ORDERING-WEBSITE.git 
 
