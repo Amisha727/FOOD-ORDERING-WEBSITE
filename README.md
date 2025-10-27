@@ -26,32 +26,28 @@ HTML5	Structure of web pages
 CSS3	Styling and layout
 JavaScript (ES6)	Interactivity and dynamic features
 GitHub Pages	Hosting and deployment
-
-📦 Folder Structure
+📁 Folder Structure
 FOOD-ORDERING-WEBSITE/
 │
-├── css/                # Styling files
-├── images/             # Images and icons
-├── index.html          # Homepage
-├── cart.html           # Cart page
-├── contactus.html      # Contact page
-├── policy.html         # Privacy policy
-├── terms_of_service.html # Terms page
-├── style.css           # Main stylesheet
-├── index.js            # JS for homepage functionality
-├── cart.js             # JS for cart logic
+├── css/                 # Stylesheets
+├── images/              # Images and icons
+├── index.html           # Homepage
+├── cart.html            # Cart page
+├── contactus.html       # Contact page
+├── policy.html          # Privacy Policy page
+├── terms_of_service.html# Terms & Conditions page
+├── style.css            # Main stylesheet
+├── index.js             # Homepage scripts
+├── cart.js              # Cart logic
 └── README.md
 
-⚡ How to Run Locally
-
-1️⃣ Clone this repo:
-
+⚡ Run Locally
+# 1️⃣ Clone this repository
 git clone https://github.com/Amisha727/FOOD-ORDERING-WEBSITE.git
 
-
-2️⃣ Open the project folder:
-
+# 2️⃣ Move into the project directory
 cd FOOD-ORDERING-WEBSITE
 
-
-3️⃣ Run using any local server or just open index.html in your browser.
+# 3️⃣ Open the project
+# You can directly open index.html in your browser
+# or use a local development server like Live Server (VS Code extension)
