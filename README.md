@@ -26,20 +26,6 @@ HTML5	Structure of web pages
 CSS3	Styling and layout
 JavaScript (ES6)	Interactivity and dynamic features
 GitHub Pages	Hosting and deployment
-'''
-FOOD-ORDERING-WEBSITE/
-│
-├── css/ 
-├── images/ 
-├── index.html
-├── cart.html 
-├── contactus.html
-├── policy.html 
-├── terms_of_service.html
-├── style.css
-├── index.js
-cart.js # Cart logic
-README.md
 
 ⚡ How to Run Locally 
 1️⃣ Clone this repo: git clone https://github.com/Amisha727/FOOD-ORDERING-WEBSITE.git 
