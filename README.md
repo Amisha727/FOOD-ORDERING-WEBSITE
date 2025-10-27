@@ -7,7 +7,7 @@
 
 🧁 Overview
 
-This project is a fully functional and visually appealing Food Ordering Website, designed to simulate a real-world online restaurant ordering experience. Users can explore menus, add items to their cart, and navigate through multiple pages including contact, policy, and terms of service.
+This project is a fully functional and visually appealing Food Ordering Website, designed to simulate a real-world online restaurant ordering experience. Users can explore menus, add items to their cart, and navigate through multiple pages, including contact, policy, and terms of service.
 
 It’s a beginner-friendly yet professional project that highlights front-end design, responsiveness, and user interaction using pure HTML, CSS, and JavaScript (no frameworks).
 
@@ -26,10 +26,6 @@ HTML5	Structure of web pages
 CSS3	Styling and layout
 JavaScript (ES6)	Interactivity and dynamic features
 GitHub Pages	Hosting and deployment
-🖼️ Preview
-<p align="center"> <img src="https://github.com/Amisha727/FOOD-ORDERING-WEBSITE/raw/main/images/preview.png" alt="Website Preview" width="80%"> </p>
-
-(Add a screenshot named preview.png in your images folder for this to show up)
 
 📦 Folder Structure
 FOOD-ORDERING-WEBSITE/
@@ -59,25 +55,3 @@ cd FOOD-ORDERING-WEBSITE
 
 
 3️⃣ Run using any local server or just open index.html in your browser.
-
-💡 Future Improvements
-
-🚀 Add backend integration (Node.js or Firebase)
-🍕 Include real-time order tracking
-📱 Improve mobile responsiveness
-💳 Add payment gateway demo integration
-
-🧑‍💻 Author
-
-Kumari Amisha
-💼 Passionate Web Developer | Problem Solver | Hackathon Finalist
-🔗 LinkedIn
-
-🧠 LeetCode
-
-📧 amishajha1208@gmail.com
-
-⭐ Show Your Support
-
-If you liked this project, don’t forget to ⭐ the repository!
-It motivates me to keep building more awesome projects 😊
